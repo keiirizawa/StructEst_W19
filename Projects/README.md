@@ -8,12 +8,12 @@ This page lists the projects and project members for each project group. It also
 
 | Time  | Students        |
 |-------|-----------------|
-| 1:30p |                 |
+| 1:30p | Tim Schwieg     |
 | 1:45p | Daniel Noriega  |
 | 2:00p |                 |
 | 2:15p | Ginha Kim       |
 | 2:30p | Kei Irizawa and Adam Oppenheimer |
-| 2:45p |                 |
+| 2:45p | Ana Vasilj       |
 | 3:00p | Cristobal Cerda Meneses |
 
 ## Project Groups and Topics
@@ -27,6 +27,25 @@ This page lists the projects and project members for each project group. It also
 | Tim Schwieg | Demand estimation in video game | ? |
 | Sergio Servan Lozano | Panel VAR Bayesian estimate | Canova and Cicharelli (?) |
 | Ana Vasilj | Estimate firm level markups | Arellano and Blundell (?), DeLoecker and Eeckhout |
+
+
+## Project presentation times
+
+### Monday, March 11
+| Time slot    | Presenter | Topic |
+|--------------|-----------------|-----------------|
+| 1:30 - 1:50p |  |  |
+| 1:55 - 2:15p |  |  |
+| 2:20 - 2:40p |  |  |
+| 2:45 - 3:05p |  |  |
+
+### Wednesday, March 13
+| Time slot    | Presenter | Topic |
+|--------------|-----------------|-----------------|
+| 1:30 - 1:50p |  |  |
+| 1:55 - 2:15p |  |  |
+| 2:20 - 2:40p |  |  |
+| 2:45 - 3:05p |  |  |
 
 
 ## Project LaTeX template
